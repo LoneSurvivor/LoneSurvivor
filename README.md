@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitinKBhardwaj
-- 👀 I’m interested in web development and software related jobs
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in machine learning and web development related jobs
+- 🌱 I’m currently working on a website that is being built for a gym based client located in Hassan
 - 📫 How to reach me : https://www.linkedin.com/in/nitin-k-bhardwaj-225343196/
 
 <!---
