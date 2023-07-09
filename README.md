@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NitinKBhardwaj
-- 👀 I’m interested in machine learning and web development related jobs
 - 🌱 I’m currently working as an ML-DL research intern at Samsung Electro-Mechanics
 - 📫 How to reach me : https://www.linkedin.com/in/nitin-k-bhardwaj-225343196/
 
